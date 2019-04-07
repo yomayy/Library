@@ -1,0 +1,10 @@
+D:\src\Library\Library\bin\Debug\Library.exe.config
+D:\src\Library\Library\bin\Debug\Library.exe
+D:\src\Library\Library\bin\Debug\Library.pdb
+D:\src\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+D:\src\Library\Library\obj\Debug\Library.Form1.resources
+D:\src\Library\Library\obj\Debug\Library.Properties.Resources.resources
+D:\src\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+D:\src\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\src\Library\Library\obj\Debug\Library.exe
+D:\src\Library\Library\obj\Debug\Library.pdb
